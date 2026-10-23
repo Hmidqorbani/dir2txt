@@ -77,7 +77,7 @@ Generates structured output with directory tree and file separators
 
 ```bash
 # Clone the repository
-git clone https://github.com/unikOne56/dir2txt
+git clone https://github.com/Hmidqorbani/dir2txt
 cd dir2txt
 
 # Install as a Python package
@@ -96,7 +96,7 @@ python -m dir2txt
 **Method 1: Install as a Package (Recommended)**
 
 ```bash
-git clone https://github.com/unikOne56/dir2txt
+git clone https://github.com/Hmidqorbani/dir2txt
 cd dir2txt
 pip install -e .
 ```
@@ -110,7 +110,7 @@ python -m dir2txt
 **Method 2: Using Git without Installation**
 
 ```bash
-git clone https://github.com/unikOne56/dir2txt
+git clone https://github.com/Hmidqorbani/dir2txt
 cd dir2txt
 python -m dir2txt
 ```
