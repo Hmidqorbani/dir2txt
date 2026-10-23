@@ -1,0 +1,19 @@
+# Default System & Environment Folders
+.git
+.venv
+__pycache__
+node_modules
+.idea
+.vscode
+.next
+.dart_tool
+.gradle
+gradle
+build
+ios
+web
+jobs.db
+
+# Project Specific Folders
+build
+dist
