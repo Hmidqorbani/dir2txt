@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/github/forks/hmidqorbani/dir2txt?style=for-the-badge&color=orange" alt="Forks">
 </p>
 
+<p align="center">
+  <img src="docs/IMG-1.jpg" alt="Light theme" width="96%">
+</p>
 ---
 
 ## 📋 Table of Contents
