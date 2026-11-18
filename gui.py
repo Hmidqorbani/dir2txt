@@ -46,12 +46,19 @@ SETTINGS_FILE = Path.home() / ".dir2txt_gui.json"
 
 IGNORE_TEMPLATE = """# .dir2txtignore  (same syntax as .gitignore)
 
-# Python
+# Code
 __pycache__/
 *.pyc
 .venv/
 venv/
 .env
+.next
+.dart_tool
+.gradle
+gradle
+build
+ios
+web
 
 # Node
 node_modules/
